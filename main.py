@@ -1,3 +1,5 @@
+# Made by Nick H
+
 import numpy as np
 import cv2 as cv
 import os
@@ -50,5 +52,3 @@ def processVideo():
     cv.destroyAllWindows()
 
 processVideo()
-
-# py E:\Dev\VideoToASCII\main.py
