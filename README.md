@@ -4,7 +4,7 @@ You will need OpenCV to run this program.
 </br>
 Install OpenCV by running this command in the console.
 ### ``` > pip install opencv-python ```
-Download a video and enter the path to the video in the code.
+Download a video and enter the path to the video in main.py.
 </br>
 ```cap = cv.VideoCapture("C:\\Path\\To\\Video\\Goes\\Here")```
 </br>
